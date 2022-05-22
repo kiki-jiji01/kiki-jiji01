@@ -1,7 +1,6 @@
 # Genta Yasokawa
 Hi there👋<br/>
 I am always thinking about how to make people happy with coding!!<br/>
--プロフィール欄のURLより、自己紹介スライドをご覧いただけます。-
 ## 📚Skills
 - Language
   - JavaScript
