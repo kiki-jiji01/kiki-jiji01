@@ -11,13 +11,11 @@ I am always thinking about how to make people happy with coding!!<br/>
 - Cloud
   - AWS(EC2、Amplify、Route53)
   - Firebase
-## 📧 Contact
-- email yasokawag@gmail.com
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiki-jiji01)](https://github.com/kiki-jiji01/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiki-jiji01&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiki-jiji01&layout=compact)](https://github.com/kiki-jiji01/github-readme-stats)
+## 📧 Contact
+- email yasokawag@gmail.com
 <!--
 **kiki-jiji01/kiki-jiji01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
