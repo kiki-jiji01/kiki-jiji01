@@ -1,7 +1,7 @@
 # Genta Yasokawa
 Hi there👋<br/>
 I am always thinking about how to make people happy with coding!!<br/>
-## 📚Skills
+## 
 - Language
   - JavaScript
   - python
