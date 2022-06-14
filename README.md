@@ -4,16 +4,15 @@ I am always thinking about how to make people happy with coding!!<br/>
 ## 
 - Language
   - JavaScript
-  - python
+  - Python
 - Framework-Library
   - React
+  - TypeScript
   - Django
 - Cloud
   - AWS(EC2、Amplify、Route53)
   - Firebase
 
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiki-jiji01&layout=compact)](https://github.com/kiki-jiji01/github-readme-stats)
 ## 📧 Contact
 - email yasokawag@gmail.com
 <!--
