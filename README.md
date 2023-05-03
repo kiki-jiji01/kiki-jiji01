@@ -1,18 +1,6 @@
 # Genta Yasokawa
 Hi there👋<br/>
 I am always thinking about how to make people happy with coding!!<br/>
-## 
-- Language
-  - JavaScript
-  - Python
-- Framework-Library
-  - React
-  - TypeScript
-  - Django
-- Cloud
-  - AWS(EC2、Amplify、Route53)
-  - Firebase
-
 ## 📧 Contact
 - email yasokawag@gmail.com
 <!--
